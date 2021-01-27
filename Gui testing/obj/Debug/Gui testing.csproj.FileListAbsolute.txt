@@ -1,0 +1,10 @@
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\bin\Debug\Gui testing.exe.config
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\bin\Debug\Gui testing.exe
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\bin\Debug\Gui testing.pdb
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\obj\Debug\Gui testing.csprojAssemblyReference.cache
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\obj\Debug\Gui_testing.Form1.resources
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\obj\Debug\Gui_testing.Properties.Resources.resources
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\obj\Debug\Gui testing.csproj.GenerateResource.cache
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\obj\Debug\Gui testing.csproj.CoreCompileInputs.cache
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\obj\Debug\Gui testing.exe
+C:\Users\tsshe\source\repos\Gui testing\Gui testing\obj\Debug\Gui testing.pdb
